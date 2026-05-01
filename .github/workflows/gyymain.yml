@@ -7,7 +7,7 @@ on:
         description: 'sxnetlayer'
         required: true
         default: 'sxnetlayer'
-      agent_description:
+      agent_description: sxnetlayer
         description: 'sxnetlayer'
         required: true
         default: 'sxnetlayer AI Agent'e
